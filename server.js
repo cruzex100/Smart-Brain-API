@@ -32,7 +32,7 @@ app.put('/image', (req,res)=>{UpdateImage.handleEntry(req,res,db)});
 app.post('/imageurl', (req,res)=> {UpdateImage.handleApiCall(req,res)})
 
 app.listen(3000, ()=>{
-	console.log("App is running on port 3000")
+	console.log(`App is running on port 3000`)
 })
 
 

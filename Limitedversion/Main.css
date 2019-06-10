@@ -1,0 +1,37 @@
+/* #table{
+border: blue
+} 
+
+th, td, p, input {
+    font:8 calibri;
+}
+table, th, td 
+{
+    border: 1px solid #DDD;
+   /* // border-collapse: collapse;  */
+    /* text-align: left; */
+   /* // width: 150; */
+         
+/* } */
+/* th { */
+    /* font-weight:bold; */
+    /* font-size: 12px; */
+    /* //padding: 0.5 */
+/* } */
+
+/* th, td { */
+    /* padding: 1px; */
+    /* font-family: 'Trebuchet MS'; */
+    /* font-size: 5; */
+    /* max-height: 'auto', */
+    /* }  */
+/* 
+ #showData{ 
+     
+    display:flexbox; 
+    height: 200px; 
+    align-items:flex-start; 
+    flex-wrap: ap;
+    justify-content: space-around;
+    
+ } */
